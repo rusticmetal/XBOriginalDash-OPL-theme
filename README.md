@@ -22,6 +22,8 @@ In your OPL /THM/ directory, copy over the entire /thm_XBOriginalDash/ folder. R
 
 <h2>Credits</h2>
 
+I don't own the Xbox dashboard or font.
+
 Credits to https://consoledash.com/ for the original image of the xbox dashboard.
 
 The custom menu icons and transparent dashboard were created/edited in GIMP.
